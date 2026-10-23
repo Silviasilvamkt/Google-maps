@@ -1,0 +1,8 @@
+{
+  "name": "Plan Más Clientes – Auditoría gratis",
+  "description": "Auditoría en 30 segundos de tu ficha de Google Maps: nota de 0 a 100, competidores y las 3 tareas de mayor impacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
